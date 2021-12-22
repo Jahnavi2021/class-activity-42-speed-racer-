@@ -1,1 +1,2 @@
-# class-activity-42-speed-racer-
+# C42RV_SpeedRacer_TeacherActivity
+Teacher Activity
